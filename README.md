@@ -1,7 +1,7 @@
 # TV broadcasting
 
 Me and my teammate Aly Mostafa, developed an analog communication system to modulate and demodulate video signals using: </br>
-`VSB technique: a popular method in analog and digital communication and widely used in TV broadcasting.` </br>
+`VSB Modulation: a popular method in analog and digital communication and widely used in TV broadcasting.` </br>
 - The video signal was processed frame-by-frame, applying VSB modulation and demodulation to each color channel (RGB).
 - Demodulation was applied on each channel before combining them to reconstruct the video.
 
